@@ -1,0 +1,13 @@
+# for looping
+binatang = ["Anjing","Babi","Singa","Kambing"]
+
+for x in binatang:
+    print(x)
+
+# while looping
+
+star =  10
+
+while star > 0:
+    print("$", star)
+    star -= 1
